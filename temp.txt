@@ -1,0 +1,25 @@
+vertex ai gemini api 
+
+export REGION=
+
+curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Develop%20an%20App%20with%20Vertex%20AI%20Gemini%201.0%20Pro/shell.sh
+
+sudo chmod +x shell.sh
+
+./shell.sh
+
+python flask 
+
+curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Deploying%20a%20Python%20Flask%20Web%20Application%20to%20App%20Engine%20Flexible/gsp023.sh
+
+sudo chmod +x gsp023.sh
+
+./gsp023.sh
+
+cloud armour
+
+curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Application%20Load%20Balancer%20with%20Cloud%20Armor/gsp215.sh
+
+sudo chmod +x *.sh
+
+./*.sh
